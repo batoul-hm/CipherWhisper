@@ -1,6 +1,6 @@
 # CipherWhisper
 
-A secure and simple real-time chat application with End-to-End Encryption. All messages are encrypted and decrypted directly on your device, so no one — not even the server — can access your messages.
+A secure and simple chat application with End-to-End Encryption. All messages are encrypted and decrypted directly on your device, so no one — not even the server — can access your messages.
 
 ## Features
 
